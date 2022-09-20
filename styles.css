@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body {
+  margin:0;
+  padding:0;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1, h2{
+  font-family: 'Raleway';
+  color: white;
+  font-weight: lighter;
+}
+
+h2{
+  margin: 10px;
+}
+
+p{
+  font-size: 22px;
+  font-family: 'Raleway';
+  font-weight: normal;
+  margin: 5px;
+  color: white;
+}
+
+ul {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: left;
+}
